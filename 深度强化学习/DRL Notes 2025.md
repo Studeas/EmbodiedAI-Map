@@ -10,4 +10,5 @@
 2. [L2: Value Estimation from MDP](./L2.pdf)
 3. [L3: Function Approximation & RL](./L3.pdf)
 4. [L4: Policy Gradient](./L4.pdf)
+5. L5: Actor-Critic
 
